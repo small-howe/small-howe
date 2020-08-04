@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=small-howe&repo=springboot-stuy)](https://github.com/anuraghazra/github-readme-stats)

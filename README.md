@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji>很高兴你点开了我的主页<g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></p>
 <!--
 **small-howe/small-howe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

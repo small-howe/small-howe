@@ -7,11 +7,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on small-howe
-- 👯 I’m looking to collaborate on Xi'an
+- 🔭 I’m currently working on small-howe🤦‍♂️
+- 👯 I’m looking to collaborate on Xi'an🏇
 - 📫 How to reach me: t2678691035@163.com
 - 😄 Pronouns: ©small-howe
-- ⚡ Fun fact: 加油💪骚年
+- ⚡ Fun fact: 加油💪骚年🌚
 <hr>
 
 

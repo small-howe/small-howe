@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=small-howe&repo=springboot-stuy)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=small-howe&repo=springboot-stuy)](https://github.com/small-howe/springboot-stuy)

@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on small-howe🤦‍♂️
-- 👯 I’m looking to collaborate on Xi'an🏇
+- 👯 My address on Xi'an🏇
 - 📫 How to reach me: t2678691035@163.com
 - 😄 Pronouns: ©small-howe
 - ⚡ Aphorism: 加油💪骚年🌚

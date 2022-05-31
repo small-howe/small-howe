@@ -5,9 +5,9 @@
 
 **small-howe/small-howe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Some personal information about me:
 
-- 🔭 I’m currently working on small-howe🤦‍♂️
+- 🔭 My name small-howe🤦‍♂️
 - 👯 My address on Xi'an🏇
 - 📫 How to reach me: t2678691035@163.com
 - 😄 Pronouns: ©small-howe

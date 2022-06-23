@@ -12,6 +12,7 @@ Some personal information about me:
 - 📫 How to reach me: t2678691035@163.com
 - 😄 Pronouns: ©small-howe
 - ⚡ Aphorism: 加油💪骚年🌚
+- 🌈 Wechat: Howe66666
 <hr>
 
 
